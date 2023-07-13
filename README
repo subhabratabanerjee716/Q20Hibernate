@@ -1,0 +1,4 @@
+Q19. Create a Java program that uses Hibernate to insert data into a MySQL database
+table. The program should use Hibernate to map the table to a Java object and then
+insert the data into the table. After inserting the data, the program should retrieve it
+from the database and display it on the console.
